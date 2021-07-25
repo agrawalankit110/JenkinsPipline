@@ -11,9 +11,9 @@
   <jdk.version>1.8</jdk.version>
   <spring.version></spring.version>
   <sonar.host.url>http://65.2.123.67:9000/</sonar.host.url>
-   <sonar.login>admin</sonar.login> 
-  <sonar.password>admin</sonar.password> 
-  <!--  <sonar.login>56174210756b403d275073d79de6eae5bac013f9</sonar.login> -->
+ <!--  <sonar.login>admin</sonar.login> 
+  <sonar.password>admin</sonar.password> -->
+    <sonar.login>6aeba4bf6c78e1d376d95ba026b984dfef655396</sonar.login> 
   </properties>
   <dependencies>
     <dependency>
